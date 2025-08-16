@@ -1,0 +1,59 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dG:/counter
+vALU_16B
+Z0 !s110 1745596864
+!i10b 1
+!s100 VoW=4::30_kKVhMhm]0=J1
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IkS_DjH69B3Qzd04M[;>W]3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dG:/ALU 16-BIT
+w1745595147
+8G:/ALU 16-BIT/ALU_16B.v
+FG:/ALU 16-BIT/ALU_16B.v
+!i122 156
+L0 1 102
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1745596864.000000
+!s107 G:/ALU 16-BIT/ALU_16B.v|
+!s90 -reportprogress|300|-work|work|-stats=none|G:/ALU 16-BIT/ALU_16B.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+n@a@l@u_16@b
+vALU_16B_TB
+R0
+!i10b 1
+!s100 CJ>BSTO1=nGRnMhlRz00H2
+R1
+IRS@o?52^eichjX75W;XeE3
+R2
+R3
+w1745596861
+8G:/ALU 16-BIT/ALU_16B_TB.v
+FG:/ALU 16-BIT/ALU_16B_TB.v
+!i122 157
+L0 2 132
+R4
+r1
+!s85 0
+31
+R5
+!s107 G:/ALU 16-BIT/ALU_16B_TB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|G:/ALU 16-BIT/ALU_16B_TB.v|
+!i113 1
+R6
+R7
+n@a@l@u_16@b_@t@b

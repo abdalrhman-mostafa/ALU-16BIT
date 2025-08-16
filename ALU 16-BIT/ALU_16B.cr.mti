@@ -1,0 +1,15 @@
+{G:/ALU 16-BIT/ALU_16B.v} {1 {vlog -work work -stats=none {G:/ALU 16-BIT/ALU_16B.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ALU_16B
+
+Top level modules:
+	ALU_16B
+
+} {} {}} {G:/ALU 16-BIT/ALU_16B_TB.v} {1 {vlog -work work -stats=none {G:/ALU 16-BIT/ALU_16B_TB.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ALU_16B_TB
+
+Top level modules:
+	ALU_16B_TB
+
+} {} {}}

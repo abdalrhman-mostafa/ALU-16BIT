@@ -1,0 +1,263 @@
+# Compile of ALU_16B.v was successful.
+# Compile of ALU_16B_TB.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.ALU_16B_TB
+# vsim -gui work.ALU_16B_TB 
+# Start time: 18:44:39 on Apr 25,2025
+# Loading work.ALU_16B_TB
+# Loading work.ALU_16B
+add wave -position end sim:/ALU_16B_TB/*
+run -all
+# ** Note: $stop    : G:/ALU 16-BIT/ALU_16B_TB.v(129)
+#    Time: 300 us  Iteration: 0  Instance: /ALU_16B_TB
+# Break in Module ALU_16B_TB at G:/ALU 16-BIT/ALU_16B_TB.v line 129
+# Compile of ALU_16B.v was successful.
+# Compile of ALU_16B_TB.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.ALU_16B_TB
+# Loading work.ALU_16B
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# ** Note: $stop    : G:/ALU 16-BIT/ALU_16B_TB.v(131)
+#    Time: 310 us  Iteration: 0  Instance: /ALU_16B_TB
+# Break in Module ALU_16B_TB at G:/ALU 16-BIT/ALU_16B_TB.v line 131
+# Compile of ALU_16B.v was successful.
+# Compile of ALU_16B_TB.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.ALU_16B_TB
+# Loading work.ALU_16B
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# ** Note: $stop    : G:/ALU 16-BIT/ALU_16B_TB.v(131)
+#    Time: 300 us  Iteration: 0  Instance: /ALU_16B_TB
+# Break in Module ALU_16B_TB at G:/ALU 16-BIT/ALU_16B_TB.v line 131
+# Compile of ALU_16B.v was successful.
+# Compile of ALU_16B_TB.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.ALU_16B_TB
+# Loading work.ALU_16B
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# ** Note: $stop    : G:/ALU 16-BIT/ALU_16B_TB.v(131)
+#    Time: 310 us  Iteration: 0  Instance: /ALU_16B_TB
+# Break in Module ALU_16B_TB at G:/ALU 16-BIT/ALU_16B_TB.v line 131
+# Compile of ALU_16B.v was successful.
+# Compile of ALU_16B_TB.v was successful.
+# 2 compiles, 0 failed with no errors.
+# Load canceled
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.ALU_16B_TB
+# Loading work.ALU_16B
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# ** Note: $stop    : G:/ALU 16-BIT/ALU_16B_TB.v(131)
+#    Time: 300 us  Iteration: 0  Instance: /ALU_16B_TB
+# Break in Module ALU_16B_TB at G:/ALU 16-BIT/ALU_16B_TB.v line 131
+# WARNING: No extended dataflow license exists
+# Compile of ALU_16B.v was successful.
+# Compile of ALU_16B_TB.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.ALU_16B_TB
+# Loading work.ALU_16B
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# ** Note: $stop    : G:/ALU 16-BIT/ALU_16B_TB.v(130)
+#    Time: 290 us  Iteration: 0  Instance: /ALU_16B_TB
+# Break in Module ALU_16B_TB at G:/ALU 16-BIT/ALU_16B_TB.v line 130
+restart -f
+# Compile of ALU_16B.v was successful.
+# Compile of ALU_16B_TB.v was successful.
+# 2 compiles, 0 failed with no errors.
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# ** Note: $stop    : G:/ALU 16-BIT/ALU_16B_TB.v(130)
+#    Time: 290 us  Iteration: 0  Instance: /ALU_16B_TB
+# Break in Module ALU_16B_TB at G:/ALU 16-BIT/ALU_16B_TB.v line 130
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.ALU_16B_TB
+# Loading work.ALU_16B
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# ** Note: $stop    : G:/ALU 16-BIT/ALU_16B_TB.v(131)
+#    Time: 300 us  Iteration: 0  Instance: /ALU_16B_TB
+# Break in Module ALU_16B_TB at G:/ALU 16-BIT/ALU_16B_TB.v line 131
+# Compile of ALU_16B.v was successful.
+# Compile of ALU_16B_TB.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.ALU_16B_TB
+# Loading work.ALU_16B
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# ** Note: $stop    : G:/ALU 16-BIT/ALU_16B_TB.v(118)
+#    Time: 170 us  Iteration: 0  Instance: /ALU_16B_TB
+# Break in Module ALU_16B_TB at G:/ALU 16-BIT/ALU_16B_TB.v line 118
+# Compile of ALU_16B.v was successful.
+# Compile of ALU_16B_TB.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.ALU_16B_TB
+# Loading work.ALU_16B
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# ** Note: $stop    : G:/ALU 16-BIT/ALU_16B_TB.v(116)
+#    Time: 150 us  Iteration: 0  Instance: /ALU_16B_TB
+# Break in Module ALU_16B_TB at G:/ALU 16-BIT/ALU_16B_TB.v line 116
+# Compile of ALU_16B.v was successful.
+# Compile of ALU_16B_TB.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.ALU_16B_TB
+# Loading work.ALU_16B
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# ** Note: $stop    : G:/ALU 16-BIT/ALU_16B_TB.v(117)
+#    Time: 160 us  Iteration: 0  Instance: /ALU_16B_TB
+# Break in Module ALU_16B_TB at G:/ALU 16-BIT/ALU_16B_TB.v line 117
+# Compile of ALU_16B.v was successful.
+# Compile of ALU_16B_TB.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.ALU_16B_TB
+# Loading work.ALU_16B
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# ** Note: $stop    : G:/ALU 16-BIT/ALU_16B_TB.v(116)
+#    Time: 160 us  Iteration: 0  Instance: /ALU_16B_TB
+# Break in Module ALU_16B_TB at G:/ALU 16-BIT/ALU_16B_TB.v line 116
+# Compile of ALU_16B.v was successful.
+# Compile of ALU_16B_TB.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.ALU_16B_TB
+# Loading work.ALU_16B
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# ** Note: $stop    : G:/ALU 16-BIT/ALU_16B_TB.v(119)
+#    Time: 170 us  Iteration: 0  Instance: /ALU_16B_TB
+# Break in Module ALU_16B_TB at G:/ALU 16-BIT/ALU_16B_TB.v line 119
+# Compile of ALU_16B.v was successful.
+# Compile of ALU_16B_TB.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.ALU_16B_TB
+# Loading work.ALU_16B
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# ** Note: $stop    : G:/ALU 16-BIT/ALU_16B_TB.v(117)
+#    Time: 150 us  Iteration: 0  Instance: /ALU_16B_TB
+# Break in Module ALU_16B_TB at G:/ALU 16-BIT/ALU_16B_TB.v line 117
+# Compile of ALU_16B.v was successful.
+# Compile of ALU_16B_TB.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.ALU_16B_TB
+# Loading work.ALU_16B
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# ** Note: $stop    : G:/ALU 16-BIT/ALU_16B_TB.v(118)
+#    Time: 170 us  Iteration: 0  Instance: /ALU_16B_TB
+# Break in Module ALU_16B_TB at G:/ALU 16-BIT/ALU_16B_TB.v line 118
+# Compile of ALU_16B.v was successful.
+# Compile of ALU_16B_TB.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.ALU_16B_TB
+# Loading work.ALU_16B
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# ** Note: $stop    : G:/ALU 16-BIT/ALU_16B_TB.v(118)
+#    Time: 170 us  Iteration: 0  Instance: /ALU_16B_TB
+# Break in Module ALU_16B_TB at G:/ALU 16-BIT/ALU_16B_TB.v line 118
+# Compile of ALU_16B.v was successful.
+# Compile of ALU_16B_TB.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.ALU_16B_TB
+# Loading work.ALU_16B
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# ** Note: $stop    : G:/ALU 16-BIT/ALU_16B_TB.v(118)
+#    Time: 170 us  Iteration: 0  Instance: /ALU_16B_TB
+# Break in Module ALU_16B_TB at G:/ALU 16-BIT/ALU_16B_TB.v line 118
+# Compile of ALU_16B.v was successful.
+# Compile of ALU_16B_TB.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.ALU_16B_TB
+# Loading work.ALU_16B
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# ** Note: $stop    : G:/ALU 16-BIT/ALU_16B_TB.v(117)
+#    Time: 160 us  Iteration: 0  Instance: /ALU_16B_TB
+# Break in Module ALU_16B_TB at G:/ALU 16-BIT/ALU_16B_TB.v line 117
+# Compile of ALU_16B.v was successful.
+# Compile of ALU_16B_TB.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.ALU_16B_TB
+# Loading work.ALU_16B
+run -all
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# ** Note: $stop    : G:/ALU 16-BIT/ALU_16B_TB.v(131)
+#    Time: 300 us  Iteration: 0  Instance: /ALU_16B_TB
+# Break in Module ALU_16B_TB at G:/ALU 16-BIT/ALU_16B_TB.v line 131
+# End time: 19:01:30 on Apr 25,2025, Elapsed time: 0:16:51
+# Errors: 0, Warnings: 1
